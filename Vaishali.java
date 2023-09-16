@@ -5,5 +5,8 @@ public class Vaishali {
         System.out.println("Vaishali");
         System.out.println("Jogdande");
         System.out.println("hiiiiiiiiiiiiiiii");
+
+        Student student = new Student();
+        student.hello();
     }
 }
